@@ -1,2 +1,8 @@
 # Largest Repo Of Solved Problems
-In All Programming Lanuanges
+
+## Topics:
+
+- SQL
+- PHP
+- Data Structures
+- OOP
